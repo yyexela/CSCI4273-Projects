@@ -1,6 +1,6 @@
 # Programming Assignment 4
 
-This project involved creating a distributed filesystem. The ideas is that there are four servers running which store redundant data when the client uploads a file. For example, out of a file split into four segments, server 1 stores parts `1` and `2`, server 2 stores parts `2` and `3`, server 3 stores parts `2` and `3` and server 4 stores parts `4` and `1`. Any other client can then download this file as long as there are enough servers running containing all four parts. So, servers 1 and 3 can go offline and the entire file can still be reconstructed. To compile the server and client, run `make` in the respective directories. The usage is below. Unforunately the project PDF is lost.
+This project involved creating a distributed filesystem. The ideas is that there are four servers running which store redundant data when the client uploads a file. For example, out of a file split into four segments, server 1 stores parts `1` and `2`, server 2 stores parts `2` and `3`, server 3 stores parts `2` and `3` and server 4 stores parts `4` and `1`. Any other client can then download this file as long as there are enough servers running containing all four parts. So, servers 1 and 3 can go offline and the entire file can still be reconstructed. To compile the server and client, run `make` in the respective directories. The usage is below. The project PDF is in `CSCI4273_PA4.pdf`.
 
 ### Client Usage
 * `dfc dfc.conf`
