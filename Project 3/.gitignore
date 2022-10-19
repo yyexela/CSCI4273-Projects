@@ -1,0 +1,4 @@
+*.exe
+cache/?????*
+webproxy
+resolved.txt

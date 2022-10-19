@@ -1,0 +1,5 @@
+*.o
+*.exe
+*.zip
+/testcode/*/
+/server/foo*

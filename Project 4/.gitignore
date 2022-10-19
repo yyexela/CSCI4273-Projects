@@ -1,0 +1,7 @@
+*.exe
+files/
+server/DFS*
+tmp
+*.o
+dfs
+dfc
