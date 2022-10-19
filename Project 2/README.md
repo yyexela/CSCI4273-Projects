@@ -1,6 +1,6 @@
 # Programming Assignment 2
 
-This folder contains the files for programming assignment 2 from CSCI 4273: Network Systems. The goal was to create an HTTP web server in C. Directions for running the server are below, in `Notes`. The project PDF is in `CSCI4273_PA2.pdf`.
+This folder contains the files for programming assignment 2 from CSCI 4273: Network Systems. The goal was to create an HTTP web server in C. Directions for running the server are below, in `Notes`. The project PDF is in `CSCI4273_PA2.pdf`. Note that the original PDF was lost so I pulled one from another year.
 
 ### Directory Structure:
 
