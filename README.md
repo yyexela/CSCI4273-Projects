@@ -16,5 +16,5 @@ This repository contains projects I completed with James Bohn for CSCI 4273: Net
 
 ### Project 4
 
-- This project involved creating a distributed filesystem with redundancy capabilityies.  
+- This project involved creating a distributed filesystem with redundancy capabilities.  
 
