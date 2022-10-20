@@ -12,7 +12,7 @@ This repository contains programming projects I completed with James Bohn for CS
 
 ### Project 3
 
-- The goal of this assignment was to create an HTTP web proxy.  
+- The goal of this project was to create an HTTP web proxy.  
 
 ### Project 4
 
