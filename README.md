@@ -1,6 +1,6 @@
-# CSCI 4273: Network Systems Programming Assignments
+# CSCI 4273: Network Systems Programming Projects
 
-This repository contains programming assignments I completed with James Bohn for CSCI 4273: Network Systems at CU Boulder.
+This repository contains programming projects I completed with James Bohn for CSCI 4273: Network Systems at CU Boulder.
 
 ### Project 1
 
